@@ -1,5 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Andreas H Rauch's Research Homepage
-description: Research Fellow at the [Michigan Institute for Data Science](./https://midas.umich.edu/faculty-member/andreas-rauch/)
-plugins:
+description: Research Fellow at the Michigan Institute for Data Science
 - jekyll-remote-theme
